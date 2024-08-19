@@ -1,0 +1,29 @@
+{
+    "stocks":[
+    {
+      "id": 1,
+      "name": "Jenny Chan",
+      "email": "jenny.chan@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Jessica warren",
+      
+      "email": "jessica.warren@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Tony Frank",
+      "email": "tony.frank@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Jeremy Clark",
+      "email": "jeremy.clark@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Raymond Edwards",
+      "email": "raymon.edwards@email.com"
+    }
+  ]}
