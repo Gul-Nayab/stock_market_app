@@ -1,5 +1,5 @@
-const API_KEY = "cplgg09r01qjtk549ht0cplgg09r01qjtk549htg";
-const API_ENDPOINT = "https://finnhub.io/api/v1";
+const API_KEY = 'APIKEY';
+const API_ENDPOINT = 'https://finnhub.io/api/v1';
 
 export const fetchQuote = async (symbol) => {
   const response = await fetch(
